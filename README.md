@@ -48,3 +48,6 @@ Password: 123456
 
 Candidates Email Confirmation:
 >You CANNOT send emails from localhost server. So when you create a new candidate account it will not send any emails. So you must go to database, find that user and set ```active=1``` in order to make that account login. 
+
+
+Email ME at kdkevinkd98@gmail.com for the Rest of the files.
